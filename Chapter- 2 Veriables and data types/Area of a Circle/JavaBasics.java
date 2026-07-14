@@ -7,5 +7,5 @@ public class JavaBasics{
     float area = 3.14f * rad * rad;
     System.out.println(area);
   } 
-}
+}ugvfygvcyy
 //Area of a Circle
